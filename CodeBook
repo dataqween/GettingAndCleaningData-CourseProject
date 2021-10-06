@@ -4,11 +4,11 @@ The experiments for this data were carried out with a group of 30 volunteers wit
 
 # Variables
 
-*Identifiers
+*Identifiers*
 Subject
 Activity
 
-*Measurements
+*Measurements*
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
@@ -27,7 +27,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-*Activity Labels
+*Activity Labels*
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
